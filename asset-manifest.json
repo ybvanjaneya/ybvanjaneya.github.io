@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ybvanjaneya.github.io/static/css/main.0a894544.css",
+    "main.js": "/ybvanjaneya.github.io/static/js/main.379062ef.js",
+    "static/media/me2.jpg": "/ybvanjaneya.github.io/static/media/me2.1b9c9e8bb0ecc3dc881b.jpg",
+    "static/media/me.jpg": "/ybvanjaneya.github.io/static/media/me.681119a0bf25ac4e99e2.jpg",
+    "static/media/bg-texture.webp": "/ybvanjaneya.github.io/static/media/bg-texture.53c088d338d590f9ebac.webp",
+    "static/media/ybv_cv_final.pdf": "/ybvanjaneya.github.io/static/media/ybv_cv_final.ff565a1dd4664ba67c15.pdf",
+    "index.html": "/ybvanjaneya.github.io/index.html",
+    "main.0a894544.css.map": "/ybvanjaneya.github.io/static/css/main.0a894544.css.map",
+    "main.379062ef.js.map": "/ybvanjaneya.github.io/static/js/main.379062ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a894544.css",
+    "static/js/main.379062ef.js"
+  ]
+}
